@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+@media only screen and (max-width: 600px) {
+  #main_box {
+    width: 80%;
+    font-size: larger;
+    height:76%;
+  }
+  #btn{
+    font-size: medium;
+  }
+}
